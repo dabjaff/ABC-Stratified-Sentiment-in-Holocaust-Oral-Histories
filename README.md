@@ -104,4 +104,8 @@ If you use this workflow, please cite the accompanying paper:
 
 **Daban Q. Jaff. _From Consensus to Split Decisions: ABC-Stratified Sentiment in Holocaust Oral Histories_.**
 
-You may also wish to cite the underlying corpus separately where relevant.
+## Citation
+
+If you use this repository, please cite the associated paper:
+
+Daban Q. Jaff. 2026. *ABC-Stratified Sentiment in Holocaust Oral Histories*. Presented at the Second Workshop on Holocaust Testimonies as Language Resources (HTRes 2026), co-located with LREC 2026, Palma de Mallorca, Spain, 11 May 2026.
