@@ -1,0 +1,9 @@
+Sentence-level rows: 579013
+Sentence-level polarity-only rows (Car!=Neu & NLT!=Neu): 150755
+Fleiss kappa (3-way) [Sentence]: 0.128688
+Fleiss kappa (polarity-only) [Sentence]: 0.739777
+
+Utterance-level rows: 107304
+Utterance-level polarity-only rows (Car!=Neu & NLT!=Neu): 18649
+Fleiss kappa (3-way) [Utterance]: 0.053506
+Fleiss kappa (polarity-only) [Utterance]: 0.783455

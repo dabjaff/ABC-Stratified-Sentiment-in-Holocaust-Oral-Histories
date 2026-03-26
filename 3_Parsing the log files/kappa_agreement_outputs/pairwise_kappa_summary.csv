@@ -1,0 +1,7 @@
+Level,Pair,N,Agr,kappa,N_neg0,Agr_neg0,kappa_neg0
+Sentence,SiE--Car,579013,28.0,0.144,177588,91.2,0.801
+Sentence,SiE--NLT,579013,57.5,0.308,440159,75.6,0.504
+Sentence,Car--NLT,579013,42.1,0.184,150755,87.5,0.719
+Utterance,SiE--Car,107304,17.8,0.088,21045,90.9,0.816
+Utterance,SiE--NLT,107304,61.7,0.35,86746,76.3,0.518
+Utterance,Car--NLT,107304,32.3,0.114,18649,88.5,0.767
