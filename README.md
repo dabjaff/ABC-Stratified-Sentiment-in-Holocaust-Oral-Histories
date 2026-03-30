@@ -68,6 +68,8 @@ The exact environment may vary slightly by script, but the workflow typically us
 
 These scripts support a workflow built around multi-model sentiment triangulation, an agreement-based ABC taxonomy, and descriptive T5 emotion profiling for Holocaust oral histories.
 
+## Licence
+This work is publicly available under the CC BY-NC-SA 4.0 license.
 
 ## Citation
 
