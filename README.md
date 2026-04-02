@@ -76,3 +76,7 @@ This work is publicly available under the CC BY-NC-SA 4.0 license.
 If you use this repository, please cite the associated paper:
 
 Daban Q. Jaff. 2026. *ABC-Stratified Sentiment in Holocaust Oral Histories*. Presented at the Second Workshop on Holocaust Testimonies as Language Resources (HTRes 2026), co-located with LREC 2026, Palma de Mallorca, Spain, 11 May 2026.
+
+## arXiv link
+
+https://arxiv.org/abs/2603.28913
